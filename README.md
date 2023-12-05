@@ -16,6 +16,7 @@ This repository contains the code and models for Lab 4, focusing on designing a 
   - Pruned models for 2%, 4%, and 10% thresholds.
   - 'ML_CyberSec_Lab4_ks6807.ipynb': Main Jupyter Notebook file.
   - 'Report_lab4.pdf': Detailed report of the project.
+  - Visualizations
 ## Getting Started
 ### Prerequisites
 - Ensure you have Python and Jupyter Notebook or Google Colab installed on your machine, along with necessary libraries like TensorFlow, Keras, h5py, and numpy.
